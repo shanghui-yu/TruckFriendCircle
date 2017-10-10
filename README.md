@@ -11,7 +11,7 @@ npm run dev
 npm run serve
 
 ```
-下载地址
+Android安装包下载地址
 
 https://pan.baidu.com/s/1dEYn1qL 
 
